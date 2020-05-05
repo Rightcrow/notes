@@ -32,7 +32,7 @@ sudo systemctl status ssh
 
 > 远程连接问题
 
-<img src="C:\Users\zhang\AppData\Roaming\Typora\typora-user-images\image-20200427194024093.png" alt="image-20200427194024093" style="zoom:25%;" />
+<img src="https://i.loli.net/2020/05/05/MgNCokDuqcEWtix.png" alt="image-20200427194024093" style="zoom:25%;" />
 
 
 
