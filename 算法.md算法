@@ -1,6 +1,6 @@
-## 计算机算法
+## 算法
 
-[TOC]
+
 
 ### 小总结
 
@@ -785,4 +785,18 @@ void quickSelect(vector<Comparable> &a,int left,int right int k)
     
 }
 ```
+
+
+
+#### 不相交集类
+
+> find不相交集，union进行并集处理
+
+
+
+#### 图论算法
+
+> G=(V,E)   顶点vertex  边edge   每一条边就是一个点对(v,w)
+
+
 
